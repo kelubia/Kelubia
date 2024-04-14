@@ -8,9 +8,9 @@ Welcome to my GitHub! I am a cybersecurity, networking, and cloud computing enth
 
 In this GitHub repository, my objective is to showcase my expertise, projects and journey as a Cloud Security Engineer. As a growing professional in cloud security, I aim to demonstrate my skills, knowledge, and contributions to securing cloud-based infrastructures and services.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Server Automation Script  | <a href="https://github.com/kelubia/Network-and-remote-server-automation-and-scripting">Network Server Automation Script</a>|
 | Azure Cloud Detection lab | <a href="https://github.com/kelubia/Azure-Cloud-Detection-lab">Azure Cloud Detection lab</a>|
@@ -22,7 +22,7 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-## Tools
+## Skills and Tools
 
 ### Network
 <div>
@@ -54,6 +54,3 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
