@@ -13,7 +13,7 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Server Automation Script  | <a href="https://github.com/kelubia/Network-and-remote-server-automation-and-scripting">Network Server Automation Script</a>|
-| Azure Cloud Detection lab | <a href="https://github.com/kelubia/Azure-Cloud-Detection-lab">Azure Cloud Detection lab</a>|
+| Azure Cloud SIEM/SOAR Detection lab | <a href="https://github.com/kelubia/Azure-Cloud-Detection-lab">Azure Cloud SIEM/SOAR Detection lab</a>|
 | Password generation Automation script | <a href="https://github.com/kelubia/002-PASSWORD-GENERATION-AND-SHELLSCRIPT-ARGUMENT">Password generation Atomation script</a>|
 | Active Directory Monitoring and Attack Detection Home lab | <a href="https://github.com/kelubia/Active-Directory-Monitoring-and-Attack-Detection-Home-lab">ActiveDirectory Detection</a>|
 | Wazah, the Hive and SOAR SOC Security Automation | <a href="https://github.com/kelubia/Wazah-the-Hive-and-SOAR-SOC-Security-Automation"> Wazah, the Hive and SOAR SOC Security Automation</a>|
