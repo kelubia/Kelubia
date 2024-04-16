@@ -16,7 +16,7 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 | Azure Cloud Detection lab | <a href="https://github.com/kelubia/Azure-Cloud-Detection-lab">Azure Cloud Detection lab</a>|
 | Password generation Automation script | <a href="https://github.com/kelubia/PASSWORD-GENERATION-AND-SHELLSCRIPT-ARGUMENT">Password generation Atomation script</a>|
 | Active Directory Monitoring and Attack Detection Home lab | <a href="https://github.com/kelubia/Active-Directory-Monitoring-and-Attack-Detection-Home-lab">ActiveDirectory Detection</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Wazah, the Hive and SOAR SOC Security Automation | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
