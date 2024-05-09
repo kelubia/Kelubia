@@ -12,6 +12,7 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| CISCO ROUTER PASSWORD SECURITY CONFIGURATION     |  <a href="https://github.com/kelubia/CISCO-ROUTER-PASSWORD-SECURITY-CONFIGURATION"> CISCO ROUTER PASSWORD SECURITY CONFIGURATION </a>|
 | Simple VLAN configuration      |  <a href="https://github.com/kelubia/Simple-VLAN-Configuration"> Simple VLAN Configuration </a>|
 | Password generation Automation script | <a href="https://github.com/kelubia/002-PASSWORD-GENERATION-AND-SHELLSCRIPT-ARGUMENT">Password generation Atomation script</a>|
 | Network Server Automation Script  | <a href="https://github.com/kelubia/Network-and-remote-server-automation-and-scripting">Network Server Automation Script</a>|
