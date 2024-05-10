@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a cybersecurity, networking, and cloud computing enth
 
 ## Objective
 
-In this GitHub repository, my objective is to showcase my expertise, projects and journey as a Cloud Security Engineer. As a growing professional in cloud security, I aim to demonstrate my skills, knowledge, and contributions to securing cloud-based infrastructures and services.
+In this GitHub repository, I aim to showcase my expertise, projects, and journey as a Network and Cloud Security Engineer. As a growing professional in Network security, I aim to demonstrate my skills, knowledge, and contributions to securing Multiple infrastructures and services.
 
 ## Projects
 
@@ -28,6 +28,7 @@ In this GitHub repository, my objective is to showcase my expertise, projects an
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
