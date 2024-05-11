@@ -12,6 +12,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|Software Deployment Automation Script|  <a href="https://github.com/kelubia/Software-Deployment-Automation-Script"> Software Deployment Automation Script</a>|
 |CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting |  <a href="https://github.com/kelubia/CISCO-Inter-VLAN-Routing-Router-on-a-Stick-and-troubleshooting/tree/main"> CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting</a>|
 | CISCO ROUTER PASSWORD SECURITY CONFIGURATION     |  <a href="https://github.com/kelubia/CISCO-ROUTER-PASSWORD-SECURITY-CONFIGURATION"> CISCO ROUTER PASSWORD SECURITY CONFIGURATION </a>|
 | Simple VLAN configuration      |  <a href="https://github.com/kelubia/Simple-VLAN-Configuration"> Simple VLAN Configuration </a>|
