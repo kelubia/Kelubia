@@ -12,6 +12,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|AUTOMATED-LOG-ROTATION-AND-APPROVAL|  <a href="https://github.com/kelubia/AUTOMATED-LOG-ROTATION-AND-APPROVAL"> AUTOMATED-LOG-ROTATION-AND-APPROVAL</a>|
 |Software Deployment Automation Script|  <a href="https://github.com/kelubia/Software-Deployment-Automation-Script"> Software Deployment Automation Script</a>|
 |CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting |  <a href="https://github.com/kelubia/CISCO-Inter-VLAN-Routing-Router-on-a-Stick-and-troubleshooting/tree/main"> CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting</a>|
 | CISCO ROUTER PASSWORD SECURITY CONFIGURATION     |  <a href="https://github.com/kelubia/CISCO-ROUTER-PASSWORD-SECURITY-CONFIGURATION"> CISCO ROUTER PASSWORD SECURITY CONFIGURATION </a>|
@@ -22,7 +23,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 | Active Directory Monitoring and Attack Detection Home lab | <a href="https://github.com/kelubia/Active-Directory-Monitoring-and-Attack-Detection-Home-lab">ActiveDirectory Detection</a>|
 | Wazah, the Hive and SOAR SOC Security Automation | <a href="https://github.com/kelubia/Wazah-the-Hive-and-SOAR-SOC-Security-Automation"> Wazah, the Hive and SOAR SOC Security Automation</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|AUTOMATED-LOG-ROTATION-AND-APPROVAL
 
 
 ## Skills and Tools
