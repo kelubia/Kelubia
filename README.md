@@ -1,5 +1,5 @@
 ### Hi, I am Gloria Johnson👋
-<a href="[https://www.linkedin.com/in/gloria-johnson-kelubia/](https://www.linkedin.com/in/gloria-johnson-kelubia/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gloria-johnson-kelubia/ (https://www.linkedin.com/in/gloria-johnson-kelubia/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 Welcome to my GitHub! I am a network engineering and cloud computing enthusiast with networking, scripting, vulnerability assessment, and incident response expertise. This repository showcases my skills and projects.
