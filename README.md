@@ -12,6 +12,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION|  <a href="https://github.com/kelubia/CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION?tab=readme-ov-file#cisco-simple-office-network-configuration)"> CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION</a>|
 |AUTOMATED-LOG-ROTATION-AND-APPROVAL|  <a href="https://github.com/kelubia/AUTOMATED-LOG-ROTATION-AND-APPROVAL"> AUTOMATED-LOG-ROTATION-AND-APPROVAL</a>|
 |Software Deployment Automation Script|  <a href="https://github.com/kelubia/Software-Deployment-Automation-Script"> Software Deployment Automation Script</a>|
 |CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting |  <a href="https://github.com/kelubia/CISCO-Inter-VLAN-Routing-Router-on-a-Stick-and-troubleshooting/tree/main"> CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting</a>|
