@@ -12,10 +12,10 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> CISCO PROJECTS </a>|
-|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> LInux PROJECTS </a>
-|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> ANSIBLE PROJECTS </a>
-|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> CLOUD & SOC PROJECTS </a>
+|<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
 
 
 
