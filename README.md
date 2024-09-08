@@ -21,6 +21,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 ### Network, Automation, Scripts
 <div>
+    <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-%23CC0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
@@ -39,17 +40,19 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 ## 📚 Certifications:
 <div>
+<img src="https://img.shields.io/badge/-LPI%20Linux-003A6C?style=for-the-badge&logo=LPI&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Certified-brightgreen?style=for-the-badge&logo=amazon-aws" />
 <img src="https://img.shields.io/badge/Azure-Certified-007FFF?style=for-the-badge&logo=microsoft-azure" />
-
+<img src="https://img.shields.io/badge/-Red%20Hat%20Linux-%23CC0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## 📬 Get In Touch
 
 - <a href="https://(mailto:gloriabrownj@gmail.com)/"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- <a href="https://github.com/kelubia/Kelubia/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
