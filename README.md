@@ -29,12 +29,8 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ### SIEM
