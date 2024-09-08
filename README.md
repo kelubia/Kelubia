@@ -1,14 +1,14 @@
+## 🧑‍💼 About Me
 ### Hi, I am Gloria Johnson👋
 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
-Welcome to my GitHub! I am a network engineering and cloud computing enthusiast with networking, scripting, vulnerability assessment, and incident response expertise. This repository showcases my skills and projects.
+Welcome to my GitHub!Hello! I'm a passionate **Network Engineer** with experience in designing, implementing, and managing large-scale network infrastructures. My expertise lies in working with Cisco, Ansible, Redhat Linux, and cloud networking platforms like AWS and Azure. I love solving complex networking challenges and keeping networks secure and optimized..
 
 ## Objective
 
 In this GitHub repository, I aim to showcase my expertise, projects, and journey as a Network and Cloud Security Engineer. As a growing professional in Network security, I aim to demonstrate my skills, knowledge, and contributions to securing Multiple infrastructures and services.
 
-## Projects
+## 🌟 Projects
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,11 +17,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 |<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
 |<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
 
-
-
-
-
-## Skills and Tools
+## 💼 Skills  🔧 Tools and Technologies
 
 ### Network, Automation, Scripts
 <div>
@@ -41,7 +37,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 </div>
 
 
-## Certifications
+## 📚 Certifications:
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -50,4 +46,10 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 <img src="https://img.shields.io/badge/Azure-Certified-007FFF?style=for-the-badge&logo=microsoft-azure" />
 
 </div>
+
+## 📬 Get In Touch
+
+- <a href="https://(mailto:gloriabrownj@gmail.com)/"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
