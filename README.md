@@ -13,29 +13,22 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> CISCO PROJECTS </a>|
+|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> LInux PROJECTS </a>
+|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> ANSIBLE PROJECTS </a>
+|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> CLOUD & SOC PROJECTS </a>
 
-|AUTOMATED-LOG-ROTATION-AND-APPROVAL|  <a href="https://github.com/kelubia/AUTOMATED-LOG-ROTATION-AND-APPROVAL"> AUTOMATED-LOG-ROTATION-AND-APPROVAL</a>|
-|Software Deployment Automation Script|  <a href="https://github.com/kelubia/Software-Deployment-Automation-Script"> Software Deployment Automation Script</a>|
-|CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting |  <a href="https://github.com/kelubia/CISCO-Inter-VLAN-Routing-Router-on-a-Stick-and-troubleshooting/tree/main"> CISCO Inter-VLAN Routing (Router on a Stick) and troubleshooting</a>|
-| CISCO ROUTER PASSWORD SECURITY CONFIGURATION     |  <a href="https://github.com/kelubia/CISCO-ROUTER-PASSWORD-SECURITY-CONFIGURATION"> CISCO ROUTER PASSWORD SECURITY CONFIGURATION </a>|
-| Simple VLAN configuration      |  <a href="https://github.com/kelubia/Simple-VLAN-Configuration"> Simple VLAN Configuration </a>|
-| Password generation Automation script | <a href="https://github.com/kelubia/002-PASSWORD-GENERATION-AND-SHELLSCRIPT-ARGUMENT">Password generation Atomation script</a>|
-| Network Server Automation Script  | <a href="https://github.com/kelubia/Network-and-remote-server-automation-and-scripting">Network Server Automation Script</a>|
-| Azure Cloud SIEM/SOAR Detection lab | <a href="https://github.com/kelubia/Azure-Cloud-Detection-lab">Azure Cloud SIEM/SOAR Detection lab</a>|
-| Active Directory Monitoring and Attack Detection Home lab | <a href="https://github.com/kelubia/Active-Directory-Monitoring-and-Attack-Detection-Home-lab">ActiveDirectory Detection</a>|
-| Wazah, the Hive and SOAR SOC Security Automation | <a href="https://github.com/kelubia/Wazah-the-Hive-and-SOAR-SOC-Security-Automation"> Wazah, the Hive and SOAR SOC Security Automation</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|AUTOMATED-LOG-ROTATION-AND-APPROVAL
+
+
 
 
 ## Skills and Tools
 
-### Network
+### Network, Automation, Scripts
 <div>
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
 </div>
 
 ### Endpoint
