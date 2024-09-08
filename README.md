@@ -52,7 +52,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 ## 📬 Get In Touch
 
-- <a href="mailto:gloriabrownj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- <a href="mailto:gloriabrownj@gmail.com?subject=Inquiry%20About%20My%20GitHub%20Page"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 - <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href="https://github.com/kelubia/Kelubia/"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
