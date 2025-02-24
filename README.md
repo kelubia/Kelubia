@@ -1,14 +1,17 @@
-## 🧑‍💼 About Me
+## 🧑‍💼![icons8-github](https://github.com/user-attachments/assets/217260ac-ceda-4105-bade-87e3198727f0) About Me
 ### Hi, I am Gloria Johnson👋
 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-Welcome to my GitHub!Hello! I'm a passionate **Network Engineer** with experience in designing, implementing, and managing large-scale network infrastructures. My expertise lies in working with Cisco, Ansible, Redhat Linux, and cloud networking platforms like AWS and Azure. I love solving complex networking challenges and keeping networks secure and optimized..
+I’m a passionate **artist** and **game developer** who loves creating immersive experiences using **Godot**, **Unity 3D**, and **Python**. When I’m not crafting games, I’m diving into the world of **cybersecurity** and **cloud computing**, constantly learning and earning certifications to level up my skills. 
+
+I believe in the power of creativity and technology to solve problems and tell stories. Let’s build something amazing together!  
 
 ## Objective
 
 In this GitHub repository, I aim to showcase my expertise, projects, and journey as a Network and Cloud Security Engineer. As a growing professional in Network security, I aim to demonstrate my skills, knowledge, and contributions to securing Multiple infrastructures and services.
 
-## 🌟 Projects
+### 🎨 Featured Projects  
+#### 🕹️ Game Development ## 🌟 Projects
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
