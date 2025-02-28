@@ -1,5 +1,5 @@
 ## 🧑‍💼![icons8-github](https://github.com/user-attachments/assets/217260ac-ceda-4105-bade-87e3198727f0) About Me
-### Hi, I am Gloria Johnson👋
+### Hi, I am Gloria Johnson 👋
 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I’m a passionate **artist** and **game developer** who loves creating immersive experiences using **Godot**, **Unity 3D**, and **Python**. When I’m not crafting games, I’m diving into the world of **cybersecurity** and **cloud computing**, constantly learning and earning certifications to level up my skills. 
