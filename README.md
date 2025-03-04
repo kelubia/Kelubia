@@ -72,7 +72,7 @@ I believe in the power of creativity and technology to solve problems and tell s
     <tr>
       <!-- Left Column -->
       <td width="50%" valign="top">
-        <h2 align="left"> 🎨 My Projects & 🕹️ Games
+        <h2 align="left"> 🎨 My Projects & 🕹️ Games </h2>
   <p align="left">
 <br />
           
@@ -88,12 +88,16 @@ I believe in the power of creativity and technology to solve problems and tell s
       </td>
       <!-- Right Column -->
       <td width="50%" valign="top">
-        <h2 align="center">My Skills</h2>
+        <h2 align="center">Languages</h2>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,js,Godotengine,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
+          <img src="https://github.com/user-attachments/assets/26751f16-2255-4243-970e-e647ed91721b" />
+          <img src="https://github.com/user-attachments/assets/02b031bf-4f76-4620-a496-ff0d7d194be3" />
+          <img src="https://github.com/user-attachments/assets/ceddcf86-b925-4d1d-b9ee-20325ae8c341" />
+          <img src="https://github.com/user-attachments/assets/c47d916d-11df-43b4-bb72-0eb76ce22529" />
+          <img src="https://github.com/user-attachments/assets/1e327c69-83f4-4c76-8fc5-feaf81709527" /> 
         </p>
         <p align="center">
-         <img src="https://github.com/user-attachments/assets/be2627d5-d445-41f0-86fd-5a7513e76805"/>
+         <img src="https://github.com/user-attachments/assets/ccefcd65-a73f-4f51-a525-da767383c40b"/>
         </p>
       </td>
     </tr>
