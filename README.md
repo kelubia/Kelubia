@@ -163,8 +163,7 @@ I believe in the power of creativity and technology to solve problems and tell s
 
   <div style="width: 100%; height: 100%; overflow: hidden;">
   <img src="https://github.com/user-attachments/assets/ea9cadf5-0596-475e-996d-dc359e86e6c8" style="width: 100%; height: 100; object-fit: cover;" />
-    <img src="https://github.com/user-attachments/assets/c999bce7-f4f2-498a-940e-8714df23a151 " style="width: 100%; height: 100; object-fit: cover;" />
-    <img src="https://github.com/user-attachments/assets/c999bce7-f4f2-498a-940e-8714df23a151 " style="width: 100%; height: 100; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/ea9cadf5-0596-475e-996d-dc359e86e6c8" style="width: 100%; height: 100; object-fit: cover;" />
 </div>
 
     
