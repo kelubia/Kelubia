@@ -44,7 +44,9 @@
 
 
 --------------------------------------------------------------------------------------------------------------
+<p> <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=TIME&query=datetime&url=http://worldtimeapi.org/api/ip&style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000"/></p>
 
+--------------------------------------------------------------------------------------------------------------
 
 
 ### Hi, I am Gloria Johnson 👋 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -102,7 +104,8 @@ I believe in the power of creativity and technology to solve problems and tell s
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%"> 
+
 
 ## 💼 Skills  🔧 Tools and Technologies
   
