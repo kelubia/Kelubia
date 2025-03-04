@@ -14,12 +14,17 @@
           <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
         </p>
         <p align="center">
-          - 👋 Hi, I’m GLoria Johnson
-          - 👀 I’m interested in Computers and Art.
-          - 🌱 I’m currently learning everything that comes in my way, but particularly Python and Cloud Technologies. 😅
-          - 🏫 I'm currently studying cybersecurity and cloud computing.
-          - 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
-          - 📫 You can reach me @  <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or the mail in my Profile. 
+          👋 Hi, I’m Gloria Johnson
+
+👀 I’m interested in Computers and Art.
+
+🌱 I’m currently learning everything that comes in my way, but particularly Python and Cloud Technologies. 😅
+
+🏫 I'm currently studying cybersecurity and cloud computing.
+
+💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
+
+📫 You can reach me  <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or the mail in my Profile. 
         </p>
       </td>
       <!-- Right Column -->
