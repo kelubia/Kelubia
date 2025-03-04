@@ -27,6 +27,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 ### Languages
 <div>
     <img src="https://github.com/user-attachments/assets/8140388d-a1f0-464f-b254-e4cc359cf3f4" />
+    <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
