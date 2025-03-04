@@ -31,7 +31,7 @@
       <td width="50%" valign="top">
         <h2 align="center">My Skills</h2>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
+          <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker" alt="Skill Icons" />
         </p>
         <p align="center">
          <img src="https://github.com/user-attachments/assets/be2627d5-d445-41f0-86fd-5a7513e76805"/>
@@ -63,7 +63,6 @@ I believe in the power of creativity and technology to solve problems and tell s
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Open-Source+Enthusiast;Full-Stack+Developer;Tech+Innovator" alt="Typing SVG" />
 </div>
 
 <br />
@@ -73,29 +72,25 @@ I believe in the power of creativity and technology to solve problems and tell s
     <tr>
       <!-- Left Column -->
       <td width="50%" valign="top">
-        <h2 align="center">🧑‍💼 About Me</h2>
-        <p align="center">
-          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
-        </p>
-        <p align="center">
-          👋 Name - Gloria Johnson
-
-👀 I’m interested in Computers and Art.
-
-🌱 I’m currently learning everything that comes in my way, but particularly Python and Cloud Technologies. 😅
-
-🏫 I'm currently studying cybersecurity and cloud computing.
-
-💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
-
-📫 You can reach me  <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or the mail in my Profile. 
-        </p>
+        <h2 align="left"> 🎨 My Projects & 🕹️ Games
+  <p align="left">
+<br />
+          
+| Name                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+   </p>
       </td>
       <!-- Right Column -->
       <td width="50%" valign="top">
         <h2 align="center">My Skills</h2>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
+          <img src="https://skillicons.dev/icons?i=python,js,Godotengine,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
         </p>
         <p align="center">
          <img src="https://github.com/user-attachments/assets/be2627d5-d445-41f0-86fd-5a7513e76805"/>
