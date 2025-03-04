@@ -163,9 +163,12 @@ I believe in the power of creativity and technology to solve problems and tell s
 [![](https://visitcount.itsvg.in/api?id=kelubia&icon=0&color=11)](https://visitcount.itsvg.in)
 
    </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" >
 
-   <img src="https://github.com/user-attachments/assets/ff58322c-e5a8-49f0-bc3a-6417fd042530" /> 
+  <div style="width: 100%; height: 100%; overflow: hidden;">
+  <img src="https://github.com/user-attachments/assets/ea9cadf5-0596-475e-996d-dc359e86e6c8" style="width: 100%; height: 100; object-fit: cover;" />
+</div>
+
     
    </td>
   </tr>
