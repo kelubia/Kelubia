@@ -30,14 +30,12 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
     <img src="https://github.com/user-attachments/assets/02b031bf-4f76-4620-a496-ff0d7d194be3" />
     <img src="https://github.com/user-attachments/assets/ceddcf86-b925-4d1d-b9ee-20325ae8c341" />
     <img src="https://github.com/user-attachments/assets/c47d916d-11df-43b4-bb72-0eb76ce22529" />
-
-    
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://github.com/user-attachments/assets/1e327c69-83f4-4c76-8fc5-feaf81709527" />
 </div>
 
 ### Network, Automation, Scripts
 <div>
-    <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-%23CC0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-%23CC0000?style=for-thebadge&logo=Red%20Hat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
