@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Open-Source+Enthusiast;Full-Stack+Developer;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;CyberSecurity+Engineer;Cloud+Architect;Game+Developer;Artist;" alt="Typing SVG" />
 </div>
 
 <br />
@@ -60,6 +60,59 @@ I’m a passionate 🎨**artist** and 🕹️**game developer** who loves creati
 <img src="https://github.com/user-attachments/assets/e3007f2a-89dc-49d1-92a2-655f16e0a16c" style="width: 25%; height: auto;" />
 
 I believe in the power of creativity and technology to solve problems and tell stories. Let’s build something amazing together!  |
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Open-Source+Enthusiast;Full-Stack+Developer;Tech+Innovator" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left Column -->
+      <td width="50%" valign="top">
+        <h2 align="center">🧑‍💼 About Me</h2>
+        <p align="center">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
+        </p>
+        <p align="center">
+          👋 Name - Gloria Johnson
+
+👀 I’m interested in Computers and Art.
+
+🌱 I’m currently learning everything that comes in my way, but particularly Python and Cloud Technologies. 😅
+
+🏫 I'm currently studying cybersecurity and cloud computing.
+
+💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
+
+📫 You can reach me  <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or the mail in my Profile. 
+        </p>
+      </td>
+      <!-- Right Column -->
+      <td width="50%" valign="top">
+        <h2 align="center">My Skills</h2>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
+        </p>
+        <p align="center">
+         <img src="https://github.com/user-attachments/assets/be2627d5-d445-41f0-86fd-5a7513e76805"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+
+
+
+
+
 
 ### 🎨 My Projects 🕹️ Game Development
 
