@@ -73,11 +73,10 @@ I believe in the power of creativity and technology to solve problems and tell s
       <!-- Left Column -->
       <td width="50%" valign="top">
         <h2 align="left"> 🎨 My Projects & 🕹️ Games </h2>
-  <p align="left">
-<br />
+  <p align="left" >
           
-| Name                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Name                                                               | Associated Project                                     |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------|
 |<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
@@ -108,32 +107,7 @@ I believe in the power of creativity and technology to solve problems and tell s
 
 <div align="center">
 
-
-
-
-
-
-### 🎨 My Projects 🕹️ Game Development
-
-| Name                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
-|<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
-|<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
-|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
-|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
-|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
-
 ## 💼 Skills  🔧 Tools and Technologies
-
-### Languages
-<div>
-    <img src="https://github.com/user-attachments/assets/26751f16-2255-4243-970e-e647ed91721b" />
-    <img src="https://github.com/user-attachments/assets/02b031bf-4f76-4620-a496-ff0d7d194be3" />
-    <img src="https://github.com/user-attachments/assets/ceddcf86-b925-4d1d-b9ee-20325ae8c341" />
-    <img src="https://github.com/user-attachments/assets/c47d916d-11df-43b4-bb72-0eb76ce22529" />
-    <img src="https://github.com/user-attachments/assets/1e327c69-83f4-4c76-8fc5-feaf81709527" />
-</div>
 
 ### Network, Automation, Scripts
 <div>
