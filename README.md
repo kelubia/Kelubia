@@ -1,3 +1,56 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Open-Source+Enthusiast;Full-Stack+Developer;Tech+Innovator" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left Column -->
+      <td width="50%" valign="top">
+        <h2 align="center">About Me</h2>
+        <p align="center">
+          <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF" />
+        </p>
+        <p align="center">
+          Hi there! 👋 I'm a passionate developer who loves building open-source projects and solving real-world problems with code. I specialize in Python, JavaScript, and cloud technologies.
+        </p>
+      </td>
+      <!-- Right Column -->
+      <td width="50%" valign="top">
+        <h2 align="center">My Skills</h2>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,aws,docker,postgres" alt="Skill Icons" />
+        </p>
+        <p align="center">
+          Here are some of the technologies I work with:
+        </p>
+        <ul align="left">
+          <li>Python: Data Science, Automation</li>
+          <li>JavaScript: Frontend & Backend Development</li>
+          <li>Cloud: AWS, Docker, Kubernetes</li>
+          <li>Databases: PostgreSQL, MongoDB</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+
+
+
+
+
+
+
 
 ## 🧑‍💼 About Me 
 ### Hi, I am Gloria Johnson 👋 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
