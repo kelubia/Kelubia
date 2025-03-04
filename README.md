@@ -15,7 +15,7 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/PYTHON-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
@@ -27,6 +27,8 @@ In this GitHub repository, I aim to showcase my expertise, projects, and journey
 ### Languages
 <div>
     <img src="https://github.com/user-attachments/assets/8140388d-a1f0-464f-b254-e4cc359cf3f4" />
+    <img src="https://github.com/user-attachments/assets/02b031bf-4f76-4620-a496-ff0d7d194be3" />
+
     <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
