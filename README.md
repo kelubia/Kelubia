@@ -65,10 +65,10 @@ I believe in the power of creativity and technology to solve problems and tell s
     <tr>
       <!-- Left Column -->
       <td width="50%" valign="top">
-        <h2 align="left"> 🎨 My Projects & 🕹️ Games </h2>
-  <p align="left" >
+        <h2 align="center"> 🎨 My Projects & 🕹️ Games </h2>
+  <p align="center" width="%">
           
-| Name                                                               | Associated Project                                     |
+|                        Name                                                               |                  Associated Project                      |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------|
 |<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
