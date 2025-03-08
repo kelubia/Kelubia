@@ -44,7 +44,9 @@
 
 
 --------------------------------------------------------------------------------------------------------------
-<p> <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=TIME&query=datetime&url=http://worldtimeapi.org/api/ip&style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000"/></p>
+<p  width="50%" >
+   <a href="https://kelubia.itch.io/"> <img src="https://img.shields.io/badge/Play%20My%20Games-FF4655?style=for-the-badge&logo=itch.io&logoColor=white" /> 
+</p>
 
 --------------------------------------------------------------------------------------------------------------
 
