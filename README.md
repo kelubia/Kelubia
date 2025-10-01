@@ -74,10 +74,10 @@ I believe in the power of creativity and technology to solve problems and tell s
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------|
 |<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />|  <a href="https://github.com/kelubia/Python"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-GameDev-FF6F61?style=for-the-badge&logo=unity&logoColor=white" />|  <a href="https://github.com/kelubia/MY-GAMES"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
-|<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
+|<img src="https://img.shields.io/badge/-Networking-1BA0D7?&style=for-the-badge&logo=network-wired&logoColor=white" />|  <a href="https://github.com/kelubia/CISCO-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>|
 |<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />|  <a href="https://github.com/kelubia/LINUX-PROJECTS/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
-|<img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
-|<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-Machine%20Learning%20%26%20AI-1BA0D7?&style=for-the-badge&logo=openai&logoColor=white" />|  <a href="https://github.com/kelubia/ANSIBLE-PROJECTS"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
+|<img src="https://img.shields.io/badge/-Cloud%20Computing-1BA0D7?&style=for-the-badge&logo=cloudflare&logoColor=white" />|  <a href="https://github.com/kelubia/CLOUD-AND-SOC-Projects/blob/main/README.md"> <img src="https://img.shields.io/badge/-Pick%20Me-F39C12?style=for-the-badge&logoColor=white" /> </a>
    </p>
       </td>
       <!-- Right Column -->
@@ -113,20 +113,14 @@ I believe in the power of creativity and technology to solve problems and tell s
   
 ### Network, Automation, Scripts
 <div>
-    <img src="https://img.shields.io/badge/-Red%20Hat%20Linux-%23CC0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-1BA0D7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-1BA0D7?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## 📚 Certifications:
