@@ -18,7 +18,10 @@
           <p>- 👀 I’m interested in Computers and Art.</p>
           <p>- 🌱 I’m currently learning Python and Cloud Technologies.</p>
           <p>- 💞️ I’m looking to collaborate in Computational Sciences.</p>
-          <p>- 📫 Reach me at [gloriabrownj@gmail.com](mailto:gloriabrownj@gmail.com) <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
+          <p>- 📫 Reach me at <a href="mailto:gloriabrownj@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
       </td>
       <!-- Right Column -->
       <td width="50%" valign="top">
