@@ -56,7 +56,7 @@
 
 ### Hi, I am Gloria Johnson 👋 <a href="https://www.linkedin.com/in/gloria-johnson-kelubia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-I’m a passionate 🎨**artist** and 🕹️**game developer** who loves creating immersive experiences using **Godot**, **Unity 3D**, and **Python**. When I’m not crafting games, I’m diving into the world of **cybersecurity** and **cloud computing**, constantly learning and earning certifications to level up my skills. 
+I’m a passionate 🎨**artist** and 🕹️**developer** who loves creating immersive experiences using **Godot**, **Unity 3D**, and **Python**. When I’m not crafting games, I’m diving into the world of **cybersecurity** and **cloud computing**, constantly learning and earning certifications to level up my skills. 
 I believe in the power of creativity and technology to solve problems and tell stories. Let’s build something amazing together!  |
 
 
